@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dtangoweb-dev-135658-authRole",
+      "UnauthRoleArn": "arn:aws:iam::612346459564:role/amplify-dtangoweb-dev-135658-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::612346459564:role/amplify-dtangoweb-dev-135658-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-dtangoweb-dev-135658-deployment",
+      "UnauthRoleName": "amplify-dtangoweb-dev-135658-unauthRole",
+      "StackName": "amplify-dtangoweb-dev-135658",
+      "StackId": "arn:aws:cloudformation:us-east-1:612346459564:stack/amplify-dtangoweb-dev-135658/50f52f60-2de1-11ec-afd4-0af2766ee435",
+      "AmplifyAppId": "d25p5be97ava4y"
+    },
+    "categories": {
+      "auth": {
+        "dtangoweb7d480895": {}
+      }
+    }
+  }
+}

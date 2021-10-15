@@ -16,7 +16,7 @@ export default function MyApp({ Component, pageProps }) {
           <span >Home</span>
         </Link>
         <Link href="/profile">
-          <span >Profile</span>
+          <span >Profiles</span>
         </Link>
       </nav>
       <Component {...pageProps} />
